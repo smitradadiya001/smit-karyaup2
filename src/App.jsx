@@ -145,7 +145,7 @@ function App() {
             <Route path="/resources/demo" element={<Demo />} />
             <Route path="/resources/tutorials" element={<VideoTutorials />} />
 
-            <Route path="*" element={<NotFound />} />
+            <Route path="*" element={<Home/>} />
           </Routes>
         </Suspense>
       </main>
