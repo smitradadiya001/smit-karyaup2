@@ -22,7 +22,7 @@ export default function AIAgents() {
 
       <div style={{ width: "100%", height: "100vh", overflow: "hidden", margin: 0, padding: 0 }}>
         <iframe
-          src="/public/New folder/New folder/index.html"
+          src="/New folder/New folder/Agent.html"
           title="Demo Page"
           style={{
             width: "100%",
